@@ -1,0 +1,10 @@
+# Tick data files (stored in OneDrive, not in the repo)
+ticks/
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
